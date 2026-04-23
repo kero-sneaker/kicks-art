@@ -373,7 +373,7 @@ section {
   object-position:center;
 }
 .product-img .fs{
-  width:70%;          /* تكبير */
+  width:70%;        /* تكبير */
   height:280%;
   object-fit:contain;  /* يحافظ على الشكل */
   object-position:center;
