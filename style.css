@@ -366,8 +366,20 @@ section {
   object-fit:contain;  /* يحافظ على الشكل */
   object-position:center;
 }
+.product-img .sh{
+  width:100%;          /* تكبير */
+  height:280%;
+  object-fit:contain;  /* يحافظ على الشكل */
+  object-position:center;
+}
 .product-img .bg{
   width:60%;          /* تكبير */
+  height:280%;
+  object-fit:contain;  /* يحافظ على الشكل */
+  object-position:center;
+}
+.product-img .bf{
+  width:55%;          /* تكبير */
   height:280%;
   object-fit:contain;  /* يحافظ على الشكل */
   object-position:center;
@@ -379,7 +391,7 @@ section {
   object-position:center;
 }
 .product-img .th{
-  width:60%;          /* تكبير */
+  width:130%;          /* تكبير */
   height:280%;
   object-fit:contain;  /* يحافظ على الشكل */
   object-position:center;
