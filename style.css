@@ -354,6 +354,12 @@ section {
   padding:10px;
 }
 
+.product-img .vbg{
+  width:90%;          /* تكبير */
+  height:280%;
+  object-fit:contain;  /* يحافظ على الشكل */
+  object-position:center;
+}
 .product-img .sm{
   width:80%;          /* تكبير */
   height:280%;
@@ -362,6 +368,12 @@ section {
 }
 .product-img .bg{
   width:60%;          /* تكبير */
+  height:280%;
+  object-fit:contain;  /* يحافظ على الشكل */
+  object-position:center;
+}
+.product-img .fs{
+  width:70%;          /* تكبير */
   height:280%;
   object-fit:contain;  /* يحافظ على الشكل */
   object-position:center;
